@@ -1,6 +1,7 @@
 # JArchiver
 
 
+
 JArchiver is a simple and extensible Java library for working with archive and compressed archive files. It provides easy and consistent interface to work with any kind of supported format.
 Currently this library supports TAR, ZIP and GZIP formats, but support for other formats can be incorporated easily in the framework.
 
@@ -44,3 +45,4 @@ Again `outputLocation` is optional. If not supplied then the inputArchive will b
 For more examples refer JUnit test `archlib.test.Main`
 
 
+This project was earlier hosted on Google code and was recently migrated to githib
